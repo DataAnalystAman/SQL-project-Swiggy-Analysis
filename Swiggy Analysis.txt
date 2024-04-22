@@ -1,0 +1,33 @@
+Swiggy Analysis
+
+Restaurants Insights
+1. Which restaurants have the highest average ratings?
+2. Are there any correlations between restaurant ratings and city locations?
+3. How many restaurants have a rating greater than 4.5?
+4. How many restaurants have the word "pizza" in their name?
+5. Find the top 5 most expensive restaurants that offer cuisine other than Indian cuisine.
+6. Retrieve the details of restaurants that have the same name but are located in different cities.
+
+Price Analysis
+1. What is the average cost per person across different cities?
+2. Are there any trends in pricing based on cuisine types?
+3. How do price ranges correlate with restaurant ratings?
+4. What is the highest price of the item under the 'recommended' menu category for each restaurant?
+
+Menu Insights
+1. What are the most common menu categories offered by restaurants?
+2. Which items are the most expensive and which are the most popular?
+3. Are there any patterns in the distribution of vegetarian and non-vegetarian items?
+4. What is the most common cuisine among the restaurants in the dataset?
+
+City-wise Analysis
+1. How does the distribution of restaurants vary across different cities?
+2. Are certain cuisines more popular in specific cities?
+3. Which is the top 1 city with the highest number of restaurants?
+4. What are the most frequently ordered items across different cities?
+
+Performance Insights
+1. What is the distribution of restaurant ratings?
+2. Are there any correlations between restaurant ratings and the number of items offered?
+3. List the names of restaurants that are 100 % vegetarian in alphabetical order of restaurant name.
+4. Which restaurant provides the lowest average price for all items?
